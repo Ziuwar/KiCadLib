@@ -22,7 +22,7 @@ ENDDEF
 #
 # Alter6PinJtag
 #
-DEF Alter6PinJtag XP 0 40 Y Y 1 F N
+DEF Alter6PinJtag XP 0 4 Y Y 1 F N
 F0 "XP" 0 -300 50 H V C CNN
 F1 "Alter6PinJtag" 0 400 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
