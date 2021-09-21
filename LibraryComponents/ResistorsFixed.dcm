@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CRCW06030000Z0EA
+D Vishay Standard Thick Film Chip Resistors
+K 0R0 0603 SMD 0.1W
+F https://www.mouser.de/datasheet/2/427/VISH_S_A0012506060_1-2572127.pdf
+$ENDCMP
+#
+#End Doc Library

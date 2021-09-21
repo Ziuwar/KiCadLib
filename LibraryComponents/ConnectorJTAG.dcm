@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 612010235221
+D Würth Electronics 10 Pin JTAG Connector 90°
+K JTAG 90° 10 Pin
+F https://www.we-online.com/katalog/datasheet/612010235221.pdf
+$ENDCMP
+#
+#End Doc Library
