@@ -16,7 +16,7 @@
 
 from __future__ import print_function
 
-# Import the KiCad python helper module and the csv formatter
+# Import the KiCad python helper module and the csv formatter fff
 import kicad_netlist_reader
 import csv
 import sys
