@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 173010542
+D MagI3C Power Module - FDSM – Fixed Step Down Regulator Module -- 7V-42V, 1A, 5V Output
+F https://www.we-online.com/katalog/datasheet/173010542.pdf
+$ENDCMP
+#
 #End Doc Library

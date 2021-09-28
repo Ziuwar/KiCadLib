@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4148WSF-7
+D Diode, Power, Switching 200mW 2pF 75Vrrm 150mA 2A 1VF
+F https://www.diodes.com/assets/Datasheets/1N4148WSF.pdf
+$ENDCMP
+#
+$CMP RS1J-E3_61T
+D Surface-Mount Fast Switching Rectifier -- 1.0A, 600V, 250ns
+F https://www.mouser.de/datasheet/2/427/VISH_S_A0010341317_1-2570963.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,3 +1,2 @@
 # File paterns to ignore by Git
-# 1. KiCad backup files are ignored
 *.bck

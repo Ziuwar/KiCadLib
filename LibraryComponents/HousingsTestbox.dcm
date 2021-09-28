@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TEKO,P1.10
+D TEKO P1 Gehäuse Serie Optative, 85 x 56 x 35 mm
+F https://cdn-reichelt.de/documents/datenblatt/C700/TEKOP1_TEKOP2_TEKOP3_TEKOP4%23TEK.pdf
+$ENDCMP
+#
+$CMP TEKO,P2.10
+D TEKO P2 Gehäuse Serie Optative, 110 x 70 x 49 mm
+F https://cdn-reichelt.de/documents/datenblatt/C700/TEKOP1_TEKOP2_TEKOP3_TEKOP4%23TEK.pdf
+$ENDCMP
+#
+$CMP TEKO,P3.10
+D TEKO P3 Gehäuse Serie Optative, 160 x 96 x 61 mm
+F https://cdn-reichelt.de/documents/datenblatt/C700/TEKOP1_TEKOP2_TEKOP3_TEKOP4%23TEK.pdf
+$ENDCMP
+#
+#End Doc Library

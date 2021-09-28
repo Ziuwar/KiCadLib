@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MS-500F
+D Kippschalter 6A-125VAC, 2x Ein-Ein
+K DPDT
+$ENDCMP
+#
+#End Doc Library

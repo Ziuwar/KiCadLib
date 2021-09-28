@@ -6,4 +6,26 @@ K 0R0 0603 SMD 0.1W
 F https://www.mouser.de/datasheet/2/427/VISH_S_A0012506060_1-2572127.pdf
 $ENDCMP
 #
+$CMP CRCW0603100RFKEA
+D Vishay Standard Thick Film Chip Resistors
+K 100R 0603 SMD 0.1W
+F https://www.mouser.de/datasheet/2/427/VISH_S_A0012506060_1-2572127.pdf
+$ENDCMP
+#
+$CMP CRCW0603430RFKEA
+D Vishay Standard Thick Film Chip Resistors
+K 430R 0603 SMD 0.1W
+F https://www.mouser.de/datasheet/2/427/VISH_S_A0012506060_1-2572127.pdf
+$ENDCMP
+#
+$CMP CRCW0603750RFKEA
+D Vishay Standard Thick Film Chip Resistors
+K 750R 0603 SMD 0.1W
+F https://www.mouser.de/datasheet/2/427/VISH_S_A0012506060_1-2572127.pdf
+$ENDCMP
+#
+$CMP SMW21R0JT
+D SMD Moulded Power Resistor - Type SM Series
+$ENDCMP
+#
 #End Doc Library
