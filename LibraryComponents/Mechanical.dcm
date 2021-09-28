@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP 9774090960
-D WA-SMST SMT Steel Spacer
+D WA-SMST SMT Steel Spacer -- D 6.0 mm, H 9.0 mm, B 3.3 mm
 F https://www.we-online.com/katalog/datasheet/9774090960.pdf
 $ENDCMP
 #

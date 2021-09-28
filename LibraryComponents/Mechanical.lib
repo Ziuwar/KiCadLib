@@ -12,7 +12,8 @@ F4 "2Y00000-00148" 0 -175 50 H I C CNN "AVSR-NR"
 F5 "Würth Elektronik" 0 -250 50 H I C CNN "MFR"
 F6 "9.0 mm" 0 -325 50 H I C CNN "H_MAX"
 DRAW
-C 0 0 50 0 1 4 N
+C 0 0 45 0 1 4 N
+C 0 0 63 0 1 24 N
 C 0 0 75 0 1 0 N
 X 1 1 0 0 0 R 50 50 1 1 P
 ENDDRAW
@@ -25,7 +26,7 @@ F0 "M" 0 -110 50 H V C CNN
 F1 "MountingHole" 0 110 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "n.b." 0 0 50 H V C CNN "AVSR-NR"
+F4 "n.b." 0 -170 50 H I C CNN "AVSR-NR"
 DRAW
 C 0 0 50 0 1 4 N
 C 0 0 75 0 1 0 N
