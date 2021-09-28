@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LGL29K-F2J1-24-Z
+D PN: LG L29K-F2J1-24-Z   --  LED - SMD Green, 570nm 12mcd, 2mA
+F C:\Temp\KiCadLib\Datasheets\LG L29K_EN.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 824014
+D WE-TVS TVS Diode – Super Speed - Ipeak 4A, Vesd 16kV,
+F https://www.we-online.com/katalog/datasheet/824014.pdf
+$ENDCMP
+#
+$CMP 824520331
+D WE-TVSP Power TVS Diode -- Vdc 33V, Vclamp 53,3V, Ipeak 11,3A
+F https://www.we-online.com/katalog/datasheet/824520331.pdf
+$ENDCMP
+#
+#End Doc Library

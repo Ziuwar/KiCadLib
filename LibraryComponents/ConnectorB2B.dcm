@@ -1,3 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BL-6-20
+D Interboard-connector,2x10 female, Präzisonskontakt für Stifte 0.63mm, for Top side mounting
+K F2X10 R2.54 0.63P THT
+$ENDCMP
+#
+$CMP BL-6-30
+D Interboard-connector,2x15 female, Präzisonskontakt für Stifte 0.63mm, for Top side mounting
+K F2X10 R2.54 0.63P THT
+$ENDCMP
+#
+$CMP SL-LP-2-097-20-G
+D Interboard-connector, male, Raster 2.54mm, Stifte 0.63mm, 2x10 pins
+K M2X10 R2.54 0.63Q THT
+$ENDCMP
+#
+$CMP SL-LP-2-097-30-G
+D Interboard-connector, male, Raster 2.54mm, Stifte 0.63mm, 2x15 pins
+K M2X15 R2.54 0.63Q THT
+$ENDCMP
+#
 #End Doc Library
