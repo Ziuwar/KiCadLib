@@ -10,7 +10,7 @@ F2 "" 50 -50 50 H I C CNN
 F3 "" 50 -50 50 H I C CNN
 F4 "1DWETVS-00002" -195 -265 50 H I C CNN "AVSR-NR"
 F5 "1.40 mm" -110 -325 50 H I C CNN "H_MAX"
-F6 "Würth Elektronik" -175 -400 50 H I C CNN "MFR"
+F6 "Wuerth Elektronik" -175 -400 50 H I C CNN "MFR"
 DRAW
 C -250 0 5 0 1 0 N
 C -150 -150 5 0 1 0 N
@@ -92,7 +92,7 @@ F2 "" 175 -100 50 V I C CNN
 F3 "" 0 -50 50 V I C CNN
 F4 "1DWETVS-00014" -120 -70 50 V I C CNN "AVSR-NR"
 F5 "2.65 mm" -200 -50 50 V I C CNN "H_MAX"
-F6 "Würth Elektronik" -275 0 50 V I C CNN "MFR"
+F6 "Wuerth Elektronik" -275 0 50 V I C CNN "MFR"
 $FPLIST
  LED*3.0mm*IRBlack*
 $ENDFPLIST

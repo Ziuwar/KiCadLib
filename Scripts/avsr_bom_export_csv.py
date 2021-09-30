@@ -16,7 +16,7 @@
 
 from __future__ import print_function
 
-# Import the KiCad python helper module and the csv formatter fff
+# Import the KiCad python helper module and the csv formatter
 import kicad_netlist_reader
 import csv
 import sys
@@ -75,7 +75,7 @@ partfields -= set( ['Reference', 'Value', 'Datasheet', 'Footprint'] )
 columnset = compfields | partfields     # union
 
 # prepend an initial 'hard coded' list and put the enchillada into list 'columns'
-columns = ['Item', 'Value', 'AVSR-NR', 'Qty', 'Reference(s)', 'LibPart', 'Footprint']
+columns = ['Item', 'Value', 'MFR', 'AVSR-NR', 'Qty', 'Reference(s)', 'LibPart', 'Footprint']
 
 # Create a new csv writer object to use as the output formatter
 out = csv.writer( f, lineterminator='\n', delimiter=',', quotechar='\"', quoting=csv.QUOTE_ALL )
@@ -110,10 +110,11 @@ for group in grouped:
         c = component
 
     # Fill in the component groups common data
-    # columns = ['Item', 'Value', 'AVSR-NR', 'Qty', 'Reference(s)', 'LibPart', 'Footprint']
+    # columns = ['Item', 'Value', 'MFR', 'AVSR-NR', 'Qty', 'Reference(s)', 'LibPart', 'Footprint']
     item += 1
     row.append( item )
     row.append( c.getValue() )
+    row.append( net.getGroupField(group, "MFR") )
     row.append( net.getGroupField(group, "AVSR-NR") )
     row.append( len(group) )
     row.append( refs )

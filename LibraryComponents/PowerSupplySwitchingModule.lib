@@ -10,7 +10,7 @@ F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "1U0VREG-00057" 390 -290 50 H I C CNN "AVSR-NR"
 F5 "10.5 mm" 360 -220 50 H I C CNN "H_MAX"
-F6 "Würth Elektronik" 390 -360 50 H I C CNN "MFR"
+F6 "Wuerth Elektronik" 390 -360 50 H I C CNN "MFR"
 DRAW
 S -200 50 200 -150 0 1 0 f
 X V_in 1 -300 0 100 R 39 39 1 1 W
