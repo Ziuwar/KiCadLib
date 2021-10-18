@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MS-500A
+D Kippschalter 6A-125VAC, 1x Ein-Ein
+F https://cdn-reichelt.de/documents/datenblatt/C200/MS-500.pdf
+$ENDCMP
+#
+$CMP MS-500C
+D Kippschalter 6A-125VAC, 1x Ein-Aus-Ein
+F https://cdn-reichelt.de/documents/datenblatt/C200/MS-500X-X-X.pdf
+$ENDCMP
+#
 $CMP MS-500F
 D Kippschalter 6A-125VAC, 2x Ein-Ein
 K DPDT

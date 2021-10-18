@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3590S-6-501L
+D Präzisionspotentiometer 7/8IN WW 500 OHMS 0.25% 10 turn
+F https://www.mouser.de/datasheet/2/54/3590-776468.pdf
+$ENDCMP
+#
+#End Doc Library
