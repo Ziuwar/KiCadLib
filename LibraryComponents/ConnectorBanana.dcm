@@ -1,0 +1,10 @@
+EESchema-DOCLIB  Version 2.0
+#
+<<<<<<< HEAD
+$CMP 49.7512LB2-DAU
+D 49.7512 LB2-D - Einlötbuchse Ø=2mm L=10mm - Actual PN: 49.7512 LB2-D AU
+$ENDCMP
+#
+=======
+>>>>>>> b423ec8a414af36e190d58771e1e4548dfde5f3d
+#End Doc Library
