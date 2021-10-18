@@ -24,6 +24,11 @@ K 750R 0603 SMD 0.1W
 F https://www.mouser.de/datasheet/2/427/VISH_S_A0012506060_1-2572127.pdf
 $ENDCMP
 #
+$CMP NB
+D Not populated resistor.
+K N.B.
+$ENDCMP
+#
 $CMP SMW21R0JT
 D SMD Moulded Power Resistor - Type SM Series
 $ENDCMP
