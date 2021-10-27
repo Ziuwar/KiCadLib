@@ -1,8 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP L77SDC37S1ACH4F
+$CMP 618037231121
 D 37-pin female D-SUB connector, Mounting Hole
 K female D-SUB connector
+F https://www.we-online.com/katalog/datasheet/618037231121.pdf
 $ENDCMP
 #
 #End Doc Library

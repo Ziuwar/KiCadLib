@@ -9,7 +9,7 @@ F1 "49.7512LB2-DAU" 0 -105 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "2JR0000-00012" 0 -175 50 H I C CNN "AVSR-NR"
-F5 "Stäubli Electrical Connectors" 0 -240 50 H I C CNN "MFR"
+F5 "Staeubli Electrical Connectors" 0 -240 50 H I C CNN "MFR"
 DRAW
 C 0 0 35 1 1 0 N
 C 0 0 56 1 1 8 f
